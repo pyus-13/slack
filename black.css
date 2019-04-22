@@ -19,10 +19,10 @@ limitations under the License.
   --primary: #77cefa;
   --text: #e7e7e7;
   --background: #1E1E1E;
-  --background-elevated: #212121;
+  --background-elevated: #1f1f1f;
 
   /* These should be less important: */
-  --background-hover: #5352528c;
+  --background-hover: #020202c9;
   --background-light: #AAA;
   --background-bright: #FFF;
 
@@ -32,7 +32,7 @@ limitations under the License.
   --text-bright: #FFF;
   --text-special: var(--primary);
 
-  --scrollbar-background: #252525;
+  --scrollbar-background: #252529;
   --scrollbar-border: var(--primary);
 }
 
