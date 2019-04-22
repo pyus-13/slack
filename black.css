@@ -32,7 +32,7 @@ limitations under the License.
   --text-bright: #FFF;
   --text-special: var(--primary);
 
-  --scrollbar-background: #000;
+  --scrollbar-background: #363636;
   --scrollbar-border: var(--primary);
 }
 
@@ -50,7 +50,7 @@ hr {
 }
 
 .popover_mask {
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(44, 44, 44, 0.3);
 }
 
 /* Team Picker */
