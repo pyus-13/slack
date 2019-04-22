@@ -18,11 +18,11 @@ limitations under the License.
   /* Modify these to change your theme colors: */
   --primary: #88d5fc;
   --text: #e7e7e7;
-  --background: #1E1E1E;
-  --background-elevated: #ffffff;
+  --background: #ffffff;
+  --background-elevated: #202020;
 
   /* These should be less important: */
-  --background-hover: #0f0f0f98;
+  --background-hover: #0f0f0f94;
   --background-light: #AAA;
   --background-bright: #FFF;
 
