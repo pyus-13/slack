@@ -16,23 +16,23 @@ limitations under the License.
 
 :root {
   /* Modify these to change your theme colors: */
-  --primary: #3374ff;
+  --primary: #0345d3;
   --text: #e7e7e7;
-  --background: #131313;
-  --background-elevated: rgb(24, 23, 23);
+  --background: #1E1E1E;
+  --background-elevated: #1f1e1e;
 
   /* These should be less important: */
-  --background-hover: rgba(44, 43, 43, 0.1);
+  --background-hover: #2c2b2b1a;
   --background-light: #AAA;
   --background-bright: #FFF;
 
-  --border-dim: #424242;
+  --border-dim: #2c2c2c;
   --border-bright: var(--primary);
 
   --text-bright: #FFF;
   --text-special: var(--primary);
 
-  --scrollbar-background: #131313;
+  --scrollbar-background: #1D1D1D;
   --scrollbar-border: var(--primary);
 }
 
